@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STM32 Generate Linker Sections", "STM32 Generate Linker Sections\STM32 Generate Linker Sections.csproj", "{F347B2A9-C36C-4896-83A7-656C0BB088A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsCustomComponents", "WindowsFormsCustomComponents\WindowsFormsCustomComponents.csproj", "{13D3990C-1318-4028-BE73-41BA418C376C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F347B2A9-C36C-4896-83A7-656C0BB088A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F347B2A9-C36C-4896-83A7-656C0BB088A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F347B2A9-C36C-4896-83A7-656C0BB088A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F347B2A9-C36C-4896-83A7-656C0BB088A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D3990C-1318-4028-BE73-41BA418C376C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D3990C-1318-4028-BE73-41BA418C376C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D3990C-1318-4028-BE73-41BA418C376C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D3990C-1318-4028-BE73-41BA418C376C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C26191D8-E18F-42FC-9897-2E478DDE0031}
+	EndGlobalSection
+EndGlobal
