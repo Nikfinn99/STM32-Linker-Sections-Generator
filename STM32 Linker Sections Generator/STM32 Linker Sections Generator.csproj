@@ -7,7 +7,7 @@
     <ProjectGuid>{F347B2A9-C36C-4896-83A7-656C0BB088A0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>STM32_Generate_Linker_Sections</RootNamespace>
-    <AssemblyName>STM32 Generate Linker Sections</AssemblyName>
+    <AssemblyName>STM32 Linker Sections Generator</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

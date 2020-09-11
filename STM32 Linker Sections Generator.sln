@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STM32 Generate Linker Sections", "STM32 Generate Linker Sections\STM32 Generate Linker Sections.csproj", "{F347B2A9-C36C-4896-83A7-656C0BB088A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STM32 Linker Sections Generator", "STM32 Linker Sections Generator\STM32 Linker Sections Generator.csproj", "{F347B2A9-C36C-4896-83A7-656C0BB088A0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsCustomComponents", "WindowsFormsCustomComponents\WindowsFormsCustomComponents.csproj", "{13D3990C-1318-4028-BE73-41BA418C376C}"
 EndProject
